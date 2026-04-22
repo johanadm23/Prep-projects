@@ -48,7 +48,7 @@ a lot, and about AI systems very little.
 
 ## Results
 
-After five pieces of evidence arriving at different populations:
+After five pieces of evidence arrive at different populations:
 
 | Population | Prior | Final |
 |---|---|---|
